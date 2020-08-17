@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16d72757-a034-4ef7-9173-6d1b5e145207" name="Default Changelist" comment="" />
+    <list default="true" id="16d72757-a034-4ef7-9173-6d1b5e145207" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/procfile.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,10 +55,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597707338124">
+    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597707823915">
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
-    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1034/1920.0.1280.984@0.0.1920.1034" timestamp="1597707338124" />
+    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1034/1920.0.1280.984@0.0.1920.1034" timestamp="1597707823915" />
+    <state x="724" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597708510142">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="724" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1034/1920.0.1280.984@0.0.1920.1034" timestamp="1597708510142" />
     <state x="822" y="412" key="Github.ShareDialog" timestamp="1597707433504">
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
@@ -80,5 +87,13 @@
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
     <state width="1876" height="275" key="GridCell.Tab.0.right/0.0.1920.1034/1920.0.1280.984@0.0.1920.1034" timestamp="1597707762285" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597708025022">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1034/1920.0.1280.984@0.0.1920.1034" timestamp="1597708025022" />
+    <state x="777" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597707990605">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="777" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1034/1920.0.1280.984@0.0.1920.1034" timestamp="1597707990605" />
   </component>
 </project>
